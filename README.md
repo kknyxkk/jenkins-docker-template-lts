@@ -1,7 +1,7 @@
 # Description
 Template Jenkins LTS 2.107.3
-user:admin
-pass:admin123
+</br> user:admin
+</br> pass:admin123
 
 # Docker build
 docker build --tag smsantana/jenkins:2.107.3 --no-cache .
