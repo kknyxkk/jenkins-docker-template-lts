@@ -1,5 +1,6 @@
 # Description
 Template Jenkins LTS 2.107.3
+</br> Credenciais Admin Interface Web:
 </br> user:admin
 </br> pass:admin123
 
